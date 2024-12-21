@@ -1,6 +1,6 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/omkeat/Desktop/2.0/lab_2.0'
+binary-path:     '/Users/omkeat/Desktop/lab2.1'
 relocations:
   - { offset: 0x2FE2, size: 0x8, addend: 0x0, symName: __ZNSt3__124__put_character_sequenceB8ne180100IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_PKS4_m, symObjAddr: 0x2BC, symBinAddr: 0x1000031D4, symSize: 0x1EC }
   - { offset: 0x3E57, size: 0x8, addend: 0x0, symName: __ZNSt3__16__math3powB8ne180100IdiLi0EEENS_9__promoteIT_T0_vE4typeES3_S4_, symObjAddr: 0x284, symBinAddr: 0x10000319C, symSize: 0x38 }
